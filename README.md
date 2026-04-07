@@ -8,11 +8,7 @@ This guide shows you how to manually add Google Drive to the Explorer sidebar fo
 
 * ✅ This works **only with** Google Drive for Desktop
 * ❌ **Not compatible with Backup and Sync** (deprecated)
-
-👉 If you're using Backup and Sync, refer to the original guide:
-[http://blog.kimmohito.com/google-drive-explorer-sidebar/](http://blog.kimmohito.com/google-drive-explorer-sidebar/)
-
----
+* If you're using Backup and Sync, refer to the original guide: [http://blog.kimmohito.com/google-drive-explorer-sidebar/](http://blog.kimmohito.com/google-drive-explorer-sidebar/)
 
 ## 🖼️ Before & After
 
@@ -70,8 +66,6 @@ Instead:
 @="C:\\\Backups\\\GoogleDriveFS.exe,0"
 ```
 
----
-
 ### 4. Update Your Drive Path
 
 Find:
@@ -82,35 +76,25 @@ Find:
 
 👉 Replace with your actual Google Drive folder location.
 
----
-
 ### 5. Apply the Registry File
 
 * Save your changes
 * Double-click `GoogleDrive.reg`
 * Click **Yes** when prompted
 
----
-
 ## ✅ Result
 
 After installation, you should see **Google Drive pinned** in the Windows Explorer sidebar — just like OneDrive or Dropbox.
-
----
 
 ## 🙌 Credits
 
 * Original method: [http://luke.digital/adding-google-drive-to-the-explorer-sidebar/](http://luke.digital/adding-google-drive-to-the-explorer-sidebar/)
 * Updated for Drive for Desktop: [https://github.com/Stratium/](https://github.com/Stratium/)
 
----
-
 ## 💡 Tips
 
 * If the icon disappears after updates → recheck your `.exe` path
 * Restart Windows Explorer if changes don’t show immediately
-
----
 
 If you want, I can also:
 
