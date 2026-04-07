@@ -89,7 +89,7 @@ After installation, you should see **Google Drive pinned** in the Windows Explor
 ## 🙌 Credits
 
 * Luke Arentz: [http://luke.digital/adding-google-drive-to-the-explorer-sidebar/](http://luke.digital/adding-google-drive-to-the-explorer-sidebar/)
-* Stratium: [https://github.com/Stratium/](https://github.com/Stratium/)
+* Stratium: [https://github.com/Stratium/](https://github.com/Stratium/Google-Drive-for-Desktop-Integration)
 
 ## 💡 Tips
 
